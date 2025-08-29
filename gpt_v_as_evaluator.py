@@ -57,7 +57,7 @@ headers = {
 }
 
 payload = {
-  "model": "gpt-4-vision-preview",
+  "model": "openai/gpt-4.1",
   "messages": [
     {
       "role": "user",
