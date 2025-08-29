@@ -1,0 +1,68 @@
+[
+    {
+        "model": "openai/gpt-oss-120b",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "openai/o3",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "openai/o1",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "anthropic/claude-3.7-sonnet",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "anthropic/claude-sonnet-4",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "qwen-turbo",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    },
+    {
+        "model": "qwen-plus",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    },
+    {
+        "model": "qwen-max",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1"
+    },
+    {
+        "model": "deepseek-chat",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://api.deepseek.com"
+    },
+    {
+        "model": "google/gemini-2.5-pro",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "google/gemini-2.5-flash",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://generativelanguage.googleapis.com"
+    },
+    {
+        "model": "moonshotai/kimi-k2",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    },
+    {
+        "model": "z-ai/glm-4.5",
+        "api_key": "YOUR_API_KEY",
+        "base_url": "https://openrouter.ai/api/v1"
+    }
+
+]
